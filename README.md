@@ -29,19 +29,19 @@ The project follows the **Medallion Architecture**:
 ### Data Ingestion
 - Autoloader  
 - PySpark  
----
+
 ### Transformation
 - Apache Spark  
 - Spark SQL  
 - Delta Lake  
 - Databricks Notebooks  
----
+  
 ### Orchestration
 - Databricks Workflows / Jobs  
----
+
 ### Governance
 - Unity Catalog  
----
+
 ### Data Visualization
 - Databricks Dashboards  
 
