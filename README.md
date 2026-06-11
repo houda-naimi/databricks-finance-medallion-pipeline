@@ -24,6 +24,29 @@ The project follows the **Medallion Architecture**:
 
 ---
 
+## Tech Stack & Tools Covered
+
+### Data Ingestion
+- Autoloader  
+- PySpark  
+---
+### Transformation
+- Apache Spark  
+- Spark SQL  
+- Delta Lake  
+- Databricks Notebooks  
+---
+### Orchestration
+- Databricks Workflows / Jobs  
+---
+### Governance
+- Unity Catalog  
+---
+### Data Visualization
+- Databricks Dashboards  
+
+---
+
 ## Metadata-Driven Framework
 
 This project uses a **metadata-driven architecture** to manage and automate the data pipeline without hardcoding logic.
@@ -61,47 +84,4 @@ This project uses a **metadata-driven architecture** to manage and automate the 
 - Full traceability of data pipelines
 - Business-friendly analytics layer
 
----
-## Tech Stack & Tools Covered
 
-### Data Ingestion
-![PySpark](https://img.shields.io/badge/PySpark-EE4C2C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-- Autoloader  
-- PySpark  
-
----
-
-### Transformation
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/Spark_SQL-4479A1?style=for-the-badge)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00B2A9?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-- Apache Spark  
-- Spark SQL  
-- Delta Lake  
-- Databricks Notebooks  
-
----
-
-### Orchestration
-![Databricks Jobs](https://img.shields.io/badge/Databricks_Jobs-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-- Databricks Workflows / Jobs  
-
----
-
-### Governance & Security
-![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-4B8BBE?style=for-the-badge)
-
-- Unity Catalog  
-
----
-
-### Analytics Layer
-![Databricks Dashboards](https://img.shields.io/badge/Databricks_Dashboards-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
-- Databricks Dashboards  
-
----
