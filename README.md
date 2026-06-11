@@ -4,4 +4,4 @@ An end-to-end data engineering project in the finance domain built on Databricks
 
 This project implements an end-to-end data pipeline using Databricks.
 
-![Data Pipeline Architecture](databricks-finance-medallion-pipeline/images/architecture.PNG)
+![Data Pipeline Architecture](images/architecture.PNG)
