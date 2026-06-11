@@ -66,8 +66,9 @@ This project uses a **metadata-driven architecture** to manage and automate the 
 
 ### Data Ingestion
 ![PySpark](https://img.shields.io/badge/PySpark-EE4C2C?style=for-the-badge&logo=apachespark&logoColor=white)
-- Autoloader
-- PySpark
+
+- Autoloader  
+- PySpark  
 
 ---
 
@@ -75,32 +76,32 @@ This project uses a **metadata-driven architecture** to manage and automate the 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/Spark_SQL-4479A1?style=for-the-badge)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00B2A9?style=for-the-badge)
-![Databricks](https://img.shields.io/badge/Databricks_Notebooks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-- Apache Spark
-- Spark SQL
-- Delta Lake
-- Databricks Notebooks
+- Apache Spark  
+- Spark SQL  
+- Delta Lake  
+- Databricks Notebooks  
 
 ---
 
 ### Orchestration
-![Databricks](https://img.shields.io/badge/Databricks_Jobs-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks Jobs](https://img.shields.io/badge/Databricks_Jobs-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-- Databricks Workflows / Jobs
+- Databricks Workflows / Jobs  
 
 ---
 
 ### Governance & Security
 ![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-4B8BBE?style=for-the-badge)
 
-- Unity Catalog
+- Unity Catalog  
 
 ---
 
-### Consumption
+### Analytics Layer
 ![Databricks Dashboards](https://img.shields.io/badge/Databricks_Dashboards-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-- Databricks Dashboards
+- Databricks Dashboards  
 
 ---
