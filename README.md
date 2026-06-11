@@ -64,15 +64,10 @@ This project uses a **metadata-driven architecture** to manage and automate the 
 ---
 ## Technologies Used
 
-- Databricks
-- Apache Spark
-- Delta Lake
-- Metadata-driven ETL design
-
-## Technologies Used
-
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00B2A9?style=for-the-badge)
 
 ---
